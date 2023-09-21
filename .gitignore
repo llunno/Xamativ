@@ -171,3 +171,13 @@ cython_debug/
 
 # Built Visual Studio Code Extensions
 *.vsix
+
+# Generated files
+/sysChamadosAtivos.db
+/Usuarios.csv
+/Fornecedores.csv
+/Fornecedores_Ativos.csv
+/Enderecos.csv
+/Departamentos.csv
+/Chamados.csv
+/Ativos.csv
